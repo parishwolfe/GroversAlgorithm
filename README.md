@@ -15,7 +15,7 @@
 
 1. Google Cirq
 2. IBM Qiskit
-3. Rigetti Forest
+3. Microsoft Q#
 
 ## Getting started
 
