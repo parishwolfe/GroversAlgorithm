@@ -1,3 +1,5 @@
+//https://learn.microsoft.com/en-us/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-visualstudio
+
 namespace GroversTutorial {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
